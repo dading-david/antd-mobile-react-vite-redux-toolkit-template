@@ -1,0 +1,13 @@
+{
+	"msg": "test",
+	"menu": {
+		"home": "home"
+	},
+	"page": {
+		"loginTitle": "login"
+	},
+	"antd": {
+		"paginationTotal": "Total {{total}} items"
+	},
+	"title": "TPBB"
+}
